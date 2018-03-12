@@ -43,11 +43,8 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> >   -    
 
-
->> 
-| Command |  Description |
+| Command       |  Description  |
 | ------------- | ------------- |
 | `ls`          | list directory content   |
 | `ls -a`       |   include entries whose name start with a dot (.) |  
