@@ -35,19 +35,19 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > `ls`  - list directory content    
-`ls -a`  - include entries whose name start with a dot (.)  
-`ls -l`  - list in long format providing file mode, number of links owner name, group name, size, abbreviated month, day of month/hour/minute file was modified, and the pathname  
-`ls -lh`  
-`ls -lah`  
-`ls -t` - sort by time modified (recent first)   
-`ls -Glp` 
+> >   -    
+
 
 >> 
-| First Header  | Second Header |
+| ###Command | ###Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| `ls`          | list directory content   |
+| `ls -a`       |   include entries whose name start with a dot (.) |  
+| `ls -l`       |   list in long format providing file mode, number of links owner name, group name, size, abbreviated month, day of month/hour/minute file was modified, and the pathname  | 
+| `ls -lh`      |  |
+| `ls -lah`     |  |
+| `ls -t`       |  sort by time modified (recent first)  |  
+| `ls -Glp`     | |
 
 
 
