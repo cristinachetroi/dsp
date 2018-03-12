@@ -26,7 +26,8 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 | pwd   | show current working directory path|
 | mkdir   | creating a directory|
 | rmdir   | deleting a directory (delete files first)|
-|    | creating a file using `touch` command|
+| touch  
+- -c, if the file does not exist, do not create it | creating a file using `touch` command|
 | rm   | deleting a file|
 | mv > new.file   | renaming a file|
 |    | listing hidden files|
