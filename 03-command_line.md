@@ -18,9 +18,17 @@ Here's a list of items with which you should be familiar:
 * listing hidden files
 * copying a file from one directory to another
 
-Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
-
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.) 
+| Command | Descrption
+| ------ | ------ |
+|    | show current working directory path|
+|    | creating a directory|
+|    | deleting a directory|
+|    | creating a file using `touch` command|
+|    | deleting a file|
+|    | renaming a file|
+|    | listing hidden files|
+|    | copying a file from one directory to another|
 
 ---
 
@@ -67,7 +75,9 @@ What does `xargs` do? Give an example of how to use it.
 
 > > REPLACE THIS TEXT WITH YOUR RESPONSE
 
-### Additional notes
+---
+
+### Grep command
 | grep flags |  Description |
 | ------------- | ------------- |
 |-c | print a count of matching lines rather than the lines themselves  |
