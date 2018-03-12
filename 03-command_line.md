@@ -23,14 +23,14 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 
 | Command | Descrption |
 | ------ | ------ |
-|    | show current working directory path|
-|    | creating a directory|
-|    | deleting a directory|
+| pwd   | show current working directory path|
+| mkdir   | creating a directory|
+| rmdir   | deleting a directory (delete files first)|
 |    | creating a file using `touch` command|
-|    | deleting a file|
-|    | renaming a file|
+| rm   | deleting a file|
+| mv > new.file   | renaming a file|
 |    | listing hidden files|
-|    | copying a file from one directory to another|
+| cp   | copying a file from one directory to another|
 
 ---
 
