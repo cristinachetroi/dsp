@@ -18,7 +18,9 @@ Here's a list of items with which you should be familiar:
 * listing hidden files
 * copying a file from one directory to another
 
-Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.) 
+Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)   
+
+
 | Command | Descrption |
 | ------ | ------ |
 |    | show current working directory path|
