@@ -41,7 +41,10 @@ What do the following commands do:
 `ls -lh`  
 `ls -lah`  
 `ls -t` - sort by time modified (recent first)   
-`ls -Glp`  
+`ls -Glp` 
+
+|---|---|
+test| test1
 
 ---
 
