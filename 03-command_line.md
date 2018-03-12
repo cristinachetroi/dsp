@@ -43,7 +43,8 @@ What do the following commands do:
 `ls -t` - sort by time modified (recent first)   
 `ls -Glp` 
 
->> | First Header  | Second Header |
+>> 
+| First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
