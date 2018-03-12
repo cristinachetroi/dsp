@@ -35,7 +35,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > `ls`  - list directory content
+`ls -a`  - include entries whose name start with (.)
+`ls -l`  
+`ls -lh`  
+`ls -lah`  
+`ls -t`  
+`ls -Glp`  
 
 ---
 
