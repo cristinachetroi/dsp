@@ -23,29 +23,30 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 
 | Command | Descrption |
 | ------ | ------ |
-| pwd   | show current working directory path|
-| cp   | copying a file from one directory to another|
-| mv > new.file   | renaming a file|
-| rm      | delete a file|
-| rmdir   | deleting a directory (delete files first)|
-| mkdir   | creating a directory|
-| touch, -c if the file does not exist, do not create it | creating a file using `touch` command|
-| ls -la   | list contents, long format include hidden files|
-| cat | view content of a file|
-| less | view content piece by piece|
-| head | preview of a file by Rows from the beginning|
-| head -n | specify # of rows|
-| tail| preview of a file by Rows from the end|
-| tail -n +N -N| from Nth row, counting from the beginning + or from the end -|
-| cut | Select columns|
-| cut -f | Specify fields/columns |
-| cut -d | Specify delimiter|
-| grep | Search files/Select files |
-| wc | Count lines, words, characters|
-| sort | Sort, default order is ascending|
-| sort -r | Reverse |
-| sort -n | Numerical |
-| uniq | Remove **adjacent** duplicates (sort first) |
+| `pwd`   | show current working directory path|
+| `cp `  | copying a file from one directory to another|
+| `mv > new.file `  | renaming a file|
+| `rm `     | delete a file|
+| `rmdir`   | deleting a directory (delete files first)|
+| `mkdir `  | creating a directory|
+| `touch `| creating a file using `touch` command|
+| `touch -c` |if the file does not exist, do not create it |
+| `ls -la`   | list contents, long format include hidden files|
+| `cat` | view content of a file|
+| `less` | view content piece by piece|
+| `head` | preview of a file by Rows from the beginning|
+| `head -n` | specify # of rows|
+| `tail`| preview of a file by Rows from the end|
+| `tail -n +N -N`| from Nth row, counting from the beginning + or from the end -|
+| `cut` | Select columns|
+| `cut -f` | Specify fields/columns |
+| `cut -d` | Specify delimiter|
+| `grep` | Search files/Select files |
+| `wc` | Count lines, words, characters|
+| `sort` | Sort, default order is ascending|
+| `sort -r` | Reverse |
+| `sort -n` | Numerical |
+| `uniq` | Remove **adjacent** duplicates (sort first) |
 | ?, [], {} | Wild Cards. Brackets: Any char, any word |
 
 ---
@@ -80,7 +81,13 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+| Command       |  Description  |
+| ------------- | ------------- |
+| `ls -1`          | display all in 1 column   |
+| `ls -R `  | Recursively list all underlying dirs  |
+| `ls -d `  |  Display only directories |
+| `ls -G1p `  |  Display in one column, Colorize and add / to dirs |
+| `ls -o `  | Same as `la -l` but not groupname  |
 
 ---
 
