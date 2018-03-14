@@ -24,13 +24,29 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 | Command | Descrption |
 | ------ | ------ |
 | pwd   | show current working directory path|
-| mkdir   | creating a directory|
-| rmdir   | deleting a directory (delete files first)|
-| touch, -c if the file does not exist, do not create it | creating a file using `touch` command|
-| rm   | deleting a file|
-| mv > new.file   | renaming a file|
-|    | listing hidden files|
 | cp   | copying a file from one directory to another|
+| mv > new.file   | renaming a file|
+| rm      | delete a file|
+| rmdir   | deleting a directory (delete files first)|
+| mkdir   | creating a directory|
+| touch, -c if the file does not exist, do not create it | creating a file using `touch` command|
+| ls -la   | list contents, long format include hidden files|
+| cat | view content of a file|
+| less | view content piece by piece|
+| head | preview of a file by Rows from the beginning|
+| head -n | specify # of rows|
+| tail| preview of a file by Rows from the end|
+| tail -n +N -N| from Nth row, counting from the beginning + or from the end -|
+| cut | Select columns|
+| cut -f | Specify fields/columns |
+| cut -d | Specify delimiter|
+| grep | Search files/Select files |
+| wc | Count lines, words, characters|
+| sort | Sort, default order is ascending|
+| sort -r | Reverse |
+| sort -n | Numerical |
+| uniq | Remove **adjacent** duplicates (sort first) |
+| ?, [], {} | Wild Cards. Brackets: Any char, any word |
 
 ---
 
@@ -54,7 +70,7 @@ What do the following commands do:
 | `ls -lh`      |  |
 | `ls -lah`     |  |
 | `ls -t`       |  sort by time modified (recent first)  |  
-| `ls -Glp`     | |
+| `ls -Glp`     | list: colorized output, long format, with trailing slash for dirs |
 
 
 
