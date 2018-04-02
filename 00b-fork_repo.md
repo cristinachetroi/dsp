@@ -70,4 +70,4 @@ What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emo
 
 >> :relaxed:
 :cat:
-:pumpkin:
+:jack_o_lantern:
